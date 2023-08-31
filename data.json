@@ -1,0 +1,71 @@
+{
+    "book": {
+        "accessInfo": {
+            "accessViewStatus": "NONE",
+            "country": "MM",
+            "embeddable": false,
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "publicDomain": false,
+            "quoteSharingAllowed": false,
+            "textToSpeechPermission": "ALLOWED",
+            "viewability": "NO_PAGES",
+            "webReaderLink": "http://play.google.com/books/reader?id=e_l9zQEACAAJ&hl=&source=gbs_api"
+        },
+        "etag": "o7WXnsD/raI",
+        "id": "e_l9zQEACAAJ",
+        "kind": "books#volume",
+        "saleInfo": {
+            "country": "MM",
+            "isEbook": false,
+            "saleability": "NOT_FOR_SALE"
+        },
+        "searchInfo": {
+            "textSnippet": "From composable and Native UIs through to device-specific APIs and offline development, this book has everything you need to create engaging and user-friendly React applications which run on all major platforms."
+        },
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/e_l9zQEACAAJ",
+        "volumeInfo": {
+            "allowAnonLogging": false,
+            "authors": ["Adam Boduch", "Roy Derks"],
+            "canonicalVolumeLink": "https://books.google.com/books/about/React_and_React_Native.html?hl=&id=e_l9zQEACAAJ",
+            "categories": ["Computers"],
+            "contentVersion": "preview-1.0.0",
+            "description": "Discover and learn how to use React and React Native to build mobile, desktop and web apps. From composable and Native UIs through to device-specific APIs and offline development, this book has everything you need to create engaging and user-friendly React applications which run on all major platforms.",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=e_l9zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=e_l9zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "industryIdentifiers": [
+                {
+                    "identifier": "1839211148",
+                    "type": "ISBN_10"
+                },
+                {
+                    "identifier": "9781839211140",
+                    "type": "ISBN_13"
+                }
+            ],
+            "infoLink": "http://books.google.com/books?id=e_l9zQEACAAJ&dq=react&hl=&source=gbs_api",
+            "language": "en",
+            "maturityRating": "NOT_MATURE",
+            "pageCount": 526,
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "previewLink": "http://books.google.com/books?id=e_l9zQEACAAJ&dq=react&hl=&cd=1&source=gbs_api",
+            "printType": "BOOK",
+            "publishedDate": "2020-04-29",
+            "readingModes": {
+                "image": false,
+                "text": false
+            },
+            "subtitle": "A Complete Hands-on Guide to Modern Web and Mobile Development with React.js",
+            "title": "React and React Native"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+@tailwind components;
+
+@layer components{
+
+  .text-blk{
+    @apply absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[85%] 
+  ;}
+
+  .banner-text{
+    @apply md:text-5xl text-3xl font-bold md:leading-[70px] leading-10
+  ;}
+
+  .clear-btn{
+    @apply text-2xl text-black absolute top-1/2 right-2 transform -translate-y-1/2
+  ;}
+
+  .input-group{
+    @apply w-full h-10 relative rounded-md overflow-hidden mt-5 md:mt-10 max-w-3xl
+  ;}
+
+  .form-input{
+    @apply w-full h-full bg-white/70 focus:bg-white duration-200 outline-none text-black px-2 text-lg caret-black placeholder:text-gray-500 
+  ;}
+}
